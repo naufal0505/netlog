@@ -53,8 +53,6 @@ Tool ini mampu menghasilkan insight seperti:
   * T1046 (Network Scanning)
   * T1071 (Application Layer Protocol)
 
-(Sumber output CLI) 
-
 ---
 
 ## ⚙️ Instalasi
@@ -121,7 +119,6 @@ Berisi:
 1. Parsing file input (PCAP/Nmap/log)
 2. Ekstraksi metadata jaringan
 3. Analisis perilaku trafik:
-
    * Frequency analysis
    * Connection pattern
 4. Deteksi anomali & threat pattern
