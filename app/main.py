@@ -31,7 +31,7 @@ console = Console()
 
 
 def print_banner():
-    console.print("\n[bold white]=== NetLog AI Analyzer ===[/bold white]")
+    console.print("\n[bold white]=== NetLog Analyzer ===[/bold white]")
     console.print("[cyan]1.[/cyan] File Nmap")
     console.print("[cyan]2.[/cyan] File PCAP")
     console.print("[cyan]3.[/cyan] File Sistem Log Server")
@@ -462,7 +462,7 @@ def handle_syslog():
 def main():
     ensure_reports_dir()
 
-    show_banner(version="v1.1.2", repo_label="karya_mahasiswa/netlog-ai")
+    show_banner(version="v1.1.2", repo_label="karya_mahasiswa/netlog")
     show_startup_animation()
 
     while True:
