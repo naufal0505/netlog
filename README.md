@@ -1,10 +1,3 @@
-Mantap, ini output kamu sudah sangat “siap jual” untuk dijadikan README GitHub 🔥
-Aku bantu rapikan jadi **deskripsi + langkah penggunaan (usage)** yang profesional dan jelas.
-
----
-
-# 📌 Deskripsi Proyek (README GitHub)
-
 ## NetLog Analyzer
 
 **NetLog Analyzer** adalah toolkit analisis jaringan berbasis Python yang dirancang untuk membantu proses *network threat hunting* secara otomatis dari berbagai sumber data seperti file PCAP, Nmap, dan log sistem.
